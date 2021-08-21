@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
 
         <p>Docker production and nginx ready!</p>
+        <p>Woow, new feature ...</p>
       </header>
     </div>
   );
